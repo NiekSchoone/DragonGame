@@ -8,4 +8,3 @@ Since this project was build so early on in our developement carreer, there was 
 
 Obviously i wouuld do alot of things differently now looking back.
 The "Levels.as" class is basically serving as the main game loop, which isn't right, i would've just wrote the multiple systems seperatelly and make them run on their own. More object oriented.
-
