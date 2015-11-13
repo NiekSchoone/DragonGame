@@ -5,3 +5,7 @@ This game was made for a project in which we got to make a creative remake of th
 It was a fun project made with 2 developers and 4 artists.
 
 Since this project was build so early on in our developement carreer, there was not a propper deviding between who did what. Both of the programmers were playing around in all off the code making the process quite chaotic, but still we managed to build a good little game out of it.
+
+Obviously i wouuld do alot of things differently now looking back.
+The "Levels.as" class is basically serving as the main game loop, which isn't right, i would've just wrote the multiple systems seperatelly and make them run on their own. More object oriented.
+
